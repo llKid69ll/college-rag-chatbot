@@ -1,0 +1,11 @@
+Separate hostel facilities are available for boys and girls.
+
+Hostel fee is 85000 INR per year including food.
+
+Facilities include:
+- WiFi
+- Laundry
+- Gym
+- Study room
+
+Rooms are available on sharing basis.
